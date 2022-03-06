@@ -17,3 +17,4 @@ console.log(data+"");
 
 // let data=fs.readFileSync("f1.txt","utf8");
 // console.log(data);
+//new change
